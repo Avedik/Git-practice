@@ -6,5 +6,6 @@ int regress() {
 
 int main() {
 	std::cout << regress();
+	std::cout << regress();
 	return 0;
 }
